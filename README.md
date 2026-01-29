@@ -229,6 +229,6 @@ Script Python para análise e geração de gráficos do controle de congestionam
 
 - Ryan Carlos dos Reis Moreira – Matrícula: 202265089A
 
-- Gustavo
+- Gustavo Henrique baldutti da silva - 202165566C
 
 - Davi
